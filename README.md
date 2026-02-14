@@ -12,3 +12,5 @@ This is a recipe to make a pie crust using butter. This recipe aims to teach how
 This recipe was found at https://www.simplyrecipes.com/recipes/perfect_pie_crust/
 *last line changed locally*
 ### This is a REMOTE change :O
+
+![Flaky pie crust](C:/Users/charl/OneDrive/Desktop/recipe/recipe.png "Perfect Pie Crust")
